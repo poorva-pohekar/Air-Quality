@@ -2,7 +2,7 @@
 - This project focuses on analyzing air quality data using a dataset containing air pollution metrics such as particular matter(PM),nitrogen dioxide(NO2),sufur dioxide(SO2),and other environmental factors.
 
 ## Installation
-- pip install numpy pandas matplotlib seaborn scikit-learn
+- pip install -r requirements.txt
 
 ## Features:
 - Bivariate Analysis: Examines realtionships between different pollutants and environmental factors.
@@ -17,6 +17,9 @@
 
 ## Contributor:
 - Poorva Pohekar
+- Archita Kulkarni
+- Sakshi bhoyar
+- Professor Parul dubey
 
 ## License
 This project is open-source and available under the MIT License.
