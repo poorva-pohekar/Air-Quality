@@ -2,7 +2,7 @@
 - This project focuses on analyzing air quality data using a dataset containing air pollution metrics such as particular matter(PM),nitrogen dioxide(NO2),sufur dioxide(SO2),and other environmental factors.
 
 ## Installation
-- pip install -r requirements.txt
+- pip install -r requirement.txt
 
 ## Features:
 - Bivariate Analysis: Examines realtionships between different pollutants and environmental factors.
